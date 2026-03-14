@@ -12,3 +12,7 @@ This project focuses on Side Channel Analysis (SCA) of cryptographic implementat
 
 The project uses a Python virtual environment located at `/home/eyobed/.cwvenv/`.
 Key libraries: `chipwhisperer`, `pycryptodome`, `numpy`, `scipy`, `matplotlib`.
+
+## Usage
+
+Refer to `src/8-bit/analysis/yearproj.ipynb` and `src/32-bit/analysis/yearproj_ARM.ipynb` for acquisition and TVLA leakage assessment workflows.
