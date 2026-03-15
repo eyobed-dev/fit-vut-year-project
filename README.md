@@ -1,17 +1,12 @@
-# Year Project 2 (YP2) - Side Channel Analysis
-
-This project focuses on Side Channel Analysis (SCA) of cryptographic implementations (AES/ECC) using ChipWhisperer and Deep Learning methods.
-
+# Year Project 2 (YP2) - Side Channel Attacks
+reproduction of side channel attacks on AVR and STM32 cortex-m0 cpu runnning a neural network and its countermeasures
 ## Directory Structure
 
 - `src/`: Source code and Jupyter notebooks (8-bit and 32-bit).
-- `data/`: Measurement data (8-bit and 32-bit).
-- `scripts/`: Utility scripts.
 
 ## Environment
 
-The project uses a Python virtual environment located at `/home/eyobed/.cwvenv/`.
-Key libraries: `chipwhisperer`, `pycryptodome`, `numpy`, `scipy`, `matplotlib`.
+- libraries: `chipwhisperer`, `pycryptodome`, `numpy`, `scipy`, `matplotlib`.
 
 ## Usage
 
